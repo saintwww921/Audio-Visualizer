@@ -8,7 +8,7 @@
 - Тернарные операции
 - Импорт и Экспорт
 
-##Версии
+## Версии
 v0.1.0: [Скачать](https://drive.google.com/file/d/12o2_nJLI1xrk-ohKYECaQWW521vtQAtG/view?usp=drivesdk)
 Добавлено:
 - консольный интерфейс
