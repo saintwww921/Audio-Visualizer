@@ -2,16 +2,12 @@
 
 ## Russian
 
-## Последняя версия: [*v0.4.0*](https://github.com/saintwww921/Audio-Visualizer/releases/tag/v_0.4.0)
+## Последняя версия: [*v0.4.1*](https://github.com/saintwww921/Audio-Visualizer/releases/tag/v_0.4.1)
 Добавлено:
-- Новое ключевое слово КОЛ
-- Тернарные операции
-- Импорт и Экспорт
+- Переписан Экспорт и Импорт
 
 ## English
 
-## Last version: [*v0.4.0*](https://github.com/saintwww921/Audio-Visualizer/releases/tag/v_0.4.0)
-Was edit: 
-- New primary key КОЛ
-- Ternary operations
-- Import and Export
+## Last version: [*v0.4.1*](https://github.com/saintwww921/Audio-Visualizer/releases/tag/v_0.4.1)
+Was edited: 
+- Rewrited export and import
