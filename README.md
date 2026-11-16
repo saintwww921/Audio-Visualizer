@@ -13,7 +13,7 @@
 
 ## English
 
-## Last version: [*v0.4.0*](https://github.com/saintwww921/Audio-Visualizer/releases/tag/v_0.4.0)\
+## Last version: [*v0.4.0*](https://github.com/saintwww921/Audio-Visualizer/releases/tag/v_0.4.0)
 Was edit: 
 - New primary key КОЛ
 - Ternary operations
