@@ -13,7 +13,7 @@
 ## English
   
 ## Last version: [*v0.5.0*](https://github.com/saintwww921/Audio-Visualizer/releases/tag/v_0.5.0)
-[Last documentation](https://github.com/saintwww921/Audio-Visualizer/blob/main/Documentation.docx)  
+[Last documentation](https://github.com/saintwww921/Audio-Visualizer/blob/main/ENGLISH%20DOCUMENTATION.docx)  
   
 Was added:  
 - Marks for the block called "create bars"  
