@@ -2,7 +2,7 @@
 
 ## Russian
 
-## Последняя версия: [*v0.5.0*](https://github.com/saintwww921/Audio-Visualizer/releases/tag/v_0.4.1)
+## Последняя версия: [*v0.5.0*](https://github.com/saintwww921/Audio-Visualizer/releases/tag/v_0.5.0)
 [Последняя документация](https://github.com/saintwww921/Audio-Visualizer/blob/main/Documentation.docx)  
   
 - Добавлена подсветка всех цветов для "создать палочки"  
@@ -12,7 +12,7 @@
   
 ## English
   
-## Last version: [*v0.4.1*](https://github.com/saintwww921/Audio-Visualizer/releases/tag/v_0.4.1)
+## Last version: [*v0.5.0*](https://github.com/saintwww921/Audio-Visualizer/releases/tag/v_0.5.0)
 [Last documentation](https://github.com/saintwww921/Audio-Visualizer/blob/main/Documentation.docx)  
   
 Was added:  
